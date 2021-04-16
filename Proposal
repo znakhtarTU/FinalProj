@@ -2,38 +2,45 @@
 
 ## What will (likely) be the title of your project?
 
-TODO
+  Pong Pong
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-TODO
+  A game that you can play with another player, playing ping pong but with a twist, adding more than one ball or adding two rackets.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-TODO
+  The project will be a basic game with low graphics, similar to the google dino run game when a user has no internet connection.  The objective of the game is to play basic ping pong with another player.
+  after a certain amount of time, the game gets more challenging based of which game mode they decide to pick, they can either pick a normal game mode, a double racket game mode or a three ball game mode.
+  The goal of the game is to get the ball past the racket hence giving the user who hit the ball last the victory.
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
-TODO, if applicable
+  N/A
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
-TODO, if applicable
+  N/A
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-TODO
+  I would hope to accomplish at least a basic game, considering my proficiency in coding, I would say thats a good goal for me. 
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-TODO
+  I think i can accomplish adding at least one of the extra game modes to the final project.
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-TODO
+  Best outcome for me would be getting all the game modes into the final project without any difficulties.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-TODO
+- repeat some practices on runestone, I'm a little iffy with certain parts of coding which i need to develop
+- get to know LOVE, lua files and the final project will be on that software so reading the manual will be a good place to start.
+- understand the code for the rackets and balls that way i know how to manipulate them to my liking for the extra game modes.
+- modify the given code to my needs to accomplish my final goal
+- play the game myself after the code is done.
+- get opinions on it to see if theres any room for improvement.
