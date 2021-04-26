@@ -10,7 +10,7 @@
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-  The project will be a basic game with low graphics, similar to the google dino run game when a user has no internet connection.  The objective of the game is to play basic ping pong with another player.
+  The project will be a basic game with low graphics, similar to the google dino run game when a user has no internet connection.  The objective of the game is to play basic ping pong with another player or the ai.
   after a certain amount of time, the game gets more challenging based of which game mode they decide to pick, they can either pick a normal game mode, a double racket game mode or a three ball game mode.
   The goal of the game is to get the ball past the racket hence giving the user who hit the ball last the victory.
 
